@@ -129,7 +129,7 @@ msgstr "Site"
 
 #: comments.php:63
 msgid "Comment"
-msgstr ""
+msgstr "comentário"
 
 # @ Avada
 #: comments.php:63
@@ -13560,7 +13560,7 @@ msgstr ""
 
 #: single-wpfc_sermon.php:113 single.php:97
 msgid "About the Author: %s"
-msgstr ""
+msgstr "Sobre o autor:"
 
 #: single.php:48
 msgid "View Larger Image"
@@ -13581,7 +13581,7 @@ msgstr ""
 
 #: templates/author-info.php:32
 msgid "About %s"
-msgstr ""
+msgstr "Sobre"
 
 # @ Avada
 #: templates/author-info.php:37
